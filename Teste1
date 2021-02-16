@@ -1,0 +1,16 @@
+void func1(){
+	return
+}
+void func2(Distancia d1){
+}
+void func3(){
+	Distancia d1 = 3
+	return d1
+}
+Distancia func4(){}
+Distancia func5(Tempo t1){
+	return t1
+}
+Distancia func6(){
+	return 4
+}

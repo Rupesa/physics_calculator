@@ -1,0 +1,10 @@
+Distancia func1(){
+	return 40
+}
+
+Velocidade v1 = 2
+func1()
+func2()
+func2(v1)
+Velocidade v1 = func1()
+

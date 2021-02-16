@@ -1,0 +1,15 @@
+Distancia Soma(){
+	return 2
+}
+
+Distancia d4 = 2
+Distancia d3 = 2
+Velocidade v = 3
+Tempo t = 4
+
+while(3 > 2){
+	show "também certo"
+	while(Soma() < v){
+		show "erro de tipos diferentes"
+	}
+}
